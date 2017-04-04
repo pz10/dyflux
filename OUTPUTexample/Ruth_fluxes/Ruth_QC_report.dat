@@ -1,0 +1,37 @@
+$first.record
+[1] "2015-08-06 14:12:00  local winter time"
+
+$last.record
+[1] "2015-09-21 08:24:00  local winter time"
+
+$total.records
+[1] 6077
+
+$record.by.CORE
+       CORE raw.NO valid.NO raw.N2O valid.N2O raw.NH3 valid.NH3 raw.CO2 valid.CO2 raw.CH4 valid.CH4
+ 1: CORE_01    338      333     336       298     337       334     336       332     336       332
+ 2: CORE_02    341      324     333       292     335       320     333       318     333       283
+ 3: CORE_03    339      330     334       292     334       329     334       329     334       329
+ 4: CORE_04    337      334     329       295     329       327     329       326     329       325
+ 5: CORE_05    338      333     326       298     326       323     326       322     326       238
+ 6: CORE_06    336      330     327       296     327       324     327       321     327       286
+ 7: CORE_07    331      326     325       300     327       322     325       317     325       265
+ 8: CORE_08    328      322     323       289     324       321     323       318     323       318
+ 9: CORE_09    328      313     321       287     321       307     321       304     321       307
+10: CORE_10    340      335     336       303     336       333     336       333     336       333
+11: CORE_11    341      338     334       304     334       331     334       329     334       330
+12: CORE_12    340      328     333       298     333       322     333       319     333       322
+13: CORE_13    337      332     330       301     330       326     330       324     330       325
+14: CORE_14    336      334     328       301     328       326     328       324     328       325
+15: CORE_15    330      330     328       293     329       329     328       322     328       325
+16: CORE_16    330      327     323       287     324       322     323       319     323       320
+17: CORE_17    328      312     323       292     324       313     323       309     323       285
+18: CORE_18    326      319     320       292     320       314     320       311     320       313
+
+[1] "filtration summary:"
+[1] "1.6  % of values deleted due to flow-related problems"
+[1] "     from flow-valid values:"
+[1] "0.49  % of NO values deleted due to CLD malfunction"
+[1] "8.5  % of PICARRO-N2O values deleted due to funny N2O rg or sd"
+[1] "0.64  % of PICARRO-CO2 values deleted due to funny CO2 rg or sd"
+[1] "4.4  % of PICARRO-CH4 values deleted due to funny CH4 rg or sd"
