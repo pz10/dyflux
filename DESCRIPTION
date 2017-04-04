@@ -1,0 +1,11 @@
+Package: dyflux
+Type: Package
+Title: Data processing, QA/QC and steady-state flux calculation
+Version: 0.1
+Date: 2016-03-24
+Author: Pablo Zuazo
+Maintainer: Pablo Zuazo <pablo.zuazo@gmail.com>
+Description: to come soon
+Imports: datatable
+License: personal distribution
+LazyData: TRUE
